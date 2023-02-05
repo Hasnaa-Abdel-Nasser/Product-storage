@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color:rgb(243, 248, 252);
+}
+.screen{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@media (max-width: 768px) {
+    .screen{
+        margin-top: 80px;
+    }
+}

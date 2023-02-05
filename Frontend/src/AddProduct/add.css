@@ -1,0 +1,15 @@
+label{
+    font-weight: bold;
+    font-size: 12px;
+    color:rgb(138, 138, 138);
+    display: block;
+    padding: 15px 0 9px 0;
+}
+input, textarea{
+    width: 80%;
+    border: 1.6px solid #eee;
+    border-radius: 4px;
+    padding: 6px 10px;
+    margin-bottom: 10px;
+    outline-color: #ba9bff;
+}
